@@ -1,0 +1,12 @@
+appname = beego_vb
+httpport = 8080
+runmode = dev
+copyrequestbody = true
+
+mysqluser = "admin"
+mysqlpass = "admin"
+mysqlurls = "127.0.0.1"
+mysqldb   = "open_vb"
+mysqlport = "3306"
+
+vueStaticDir = "E:/www/golang/src/beego_vb/static/vue-admin/"

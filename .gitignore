@@ -1,0 +1,6 @@
+.idea
+/conf/app.conf
+/frontend/govb-vue-admin/node_modules/
+/frontend/govb-vue-admin/dist/
+*.exe
+*.exe~
