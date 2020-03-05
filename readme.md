@@ -49,4 +49,4 @@ npn run build
 ```
 
 ## 发布
-参考 [Golang在Linux下的部署](https://hezhizheng.com/blog/deployment-of-golang-under-linux)
+参考 [linux通过二进制文件安装golang](https://hzz.cool/blog/linux-installs-golang-through-binary-files)
